@@ -13,11 +13,14 @@
         android:layout_height="match_parent"/>
 
     <fragment
-        android:id="@+id/fragment_details"
-        android:name="com.example.administrator.myapplication.ScenarioFragment"
+        android:id="@+id/fragment_ansver"
+        android:name="com.example.administrator.myapplication.AnsverFragment"
         android:layout_width="0dp"
         android:layout_weight="1"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+    />
+
+
 
 </LinearLayout>
 
